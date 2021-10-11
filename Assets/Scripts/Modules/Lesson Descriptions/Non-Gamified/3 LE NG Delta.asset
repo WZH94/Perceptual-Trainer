@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2af5575a43c3f94ead165a57e07789d, type: 3}
+  m_Name: 3 LE NG Delta
+  m_EditorClassIdentifier: 
+  ModuleName: Delta
+  ModuleDescription: Learn what a delta is and how to identify its precise location
+    so that you are able to accurately annotate it.
+  SceneName: LE NG Delta

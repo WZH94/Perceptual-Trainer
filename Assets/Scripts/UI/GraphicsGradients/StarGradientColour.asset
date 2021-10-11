@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9354ace0df382545813bd06061919bb, type: 3}
+  m_Name: StarGradientColour
+  m_EditorClassIdentifier: 
+  GreenBoldColour: {r: 1, g: 0.84313726, b: 0, a: 1}
+  GreenLightColour: {r: 1, g: 0.84313726, b: 0, a: 1}
+  GreenBlur: {fileID: 2100000, guid: 7dd1c5221d47dd446ba5bcf2e01fb09a, type: 2}
+  YellowBoldColour: {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 1}
+  YellowLightColour: {r: 0.93333334, g: 0.93333334, b: 0.93333334, a: 1}
+  YellowBlur: {fileID: 2100000, guid: fe13cb0fba0fa7d44bb61440edd1c720, type: 2}
+  RedBoldColour: {r: 0.8039216, g: 0.49803922, b: 0.19607843, a: 1}
+  RedLightColour: {r: 0.93333334, g: 0.60784316, b: 0.28627452, a: 1}
+  RedBlur: {fileID: 2100000, guid: e1d3f50f1fd74874eb69bdd1ec14068a, type: 2}
